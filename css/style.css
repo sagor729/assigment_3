@@ -54,7 +54,7 @@
 
 @media only screen and (min-width: 700px) and (max-width:1023px) {
     .display-3 {
-        font-size: 5vw;
+        font-size: 12px;
     }
 }
 
